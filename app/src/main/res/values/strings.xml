@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">CHARLES-KEITH--App-Assignment-MMA</string>
+    <string name="app_name">CHARLES AND KEITH</string>
+    <string name="filter_name">FILTER</string>
+    <string name="sort_by_name">SORT BY</string>
+    <string name="item_name">2359 ITEMS</string>
+    <string name="item_category">STUDDED POINTED SLINGBACKS</string>
+    <string name="back_in_stock">BACK IN STOCK</string>
 </resources>
