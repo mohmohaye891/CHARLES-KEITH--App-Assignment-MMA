@@ -48,7 +48,7 @@ public class NewProductViewHolder extends RecyclerView.ViewHolder {
         mNewProducts = newProducts;
 
         tvProductTitle.setText(newProducts.getProductTitle());
-        tvTitle.setText(newProducts.getProductTitle());
+       // tvTitle.setText(newProducts.getProductTitle());
 
         Glide.with(ivNewProductsOne.getContext())
                 .load(newProducts.getProductImage())

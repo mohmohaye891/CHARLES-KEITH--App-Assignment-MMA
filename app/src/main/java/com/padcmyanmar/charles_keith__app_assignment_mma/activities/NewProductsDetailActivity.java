@@ -25,7 +25,7 @@ public class NewProductsDetailActivity extends BaseActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_item_one_detail);
+        setContentView(R.layout.activity_item_detail);
         ButterKnife.bind(this, this);
 
         String newProductsId = getIntent().getStringExtra("newProductsId" );
